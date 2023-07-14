@@ -1,0 +1,13 @@
+[2023-07-13 21:10:25,305] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:26,744] INFO _log() L224   * Detected change in 'C:\\Users\\lusci\\Desktop\\MVP\\meu_app_api\\model\\produto.py', reloading - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:26,850] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:29,437] INFO _log() L224   * Detected change in 'C:\\Users\\lusci\\Desktop\\MVP\\meu_app_api\\schemas\\produto.py', reloading - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:29,633] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:33,321] INFO _log() L224   * Detected change in 'C:\\Users\\lusci\\Desktop\\MVP\\meu_app_api\\model\\produto.py', reloading - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:33,511] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:35,089] INFO _log() L224   * Detected change in 'C:\\Users\\lusci\\Desktop\\MVP\\meu_app_api\\schemas\\produto.py', reloading - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:35,289] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:51,553] INFO _log() L224   * Detected change in 'C:\\Users\\lusci\\Desktop\\MVP\\meu_app_api\\model\\produto.py', reloading - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:10:51,659] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:11:43,890] INFO _log() L224  127.0.0.1 - - [13/Jul/2023 21:11:43] "GET /produtos HTTP/1.1" 200 - - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-07-13 21:12:38,486] INFO _log() L224  127.0.0.1 - - [13/Jul/2023 21:12:38] "GET /produtos HTTP/1.1" 200 - - call_trace=C:\Users\lusci\Desktop\MVP\meu_app_api\env\Lib\site-packages\werkzeug\_internal.py L224 
